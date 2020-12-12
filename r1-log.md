@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [Friday, December 11, 2020].
 Attempted to build a custom grid with floats in the Advanced CSS and Sass: Flexbox, Grid, Animations and More!
 
 ### R1D2
+.
